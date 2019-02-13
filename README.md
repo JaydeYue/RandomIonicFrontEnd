@@ -7,7 +7,7 @@ This server demo works. I separated backend and front end, ionic uses the API fr
 [Server repo link](https://github.com/JaydeYue/RandomIonicServer)
 
 ## Currently have
-[Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicFrontEnd/src/app/tab1)
+Getting median of prime numbers before a positive N
 
 # Setup
 
