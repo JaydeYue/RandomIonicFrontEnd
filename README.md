@@ -1,7 +1,9 @@
 # Random Ionic Server
 Random stuff
 
-This server demo works. I separated backend and front end, ionic uses the API from this URL.
+This works locally, I will try to upload it to the public web later.
+
+This server demo works and is uploaded to the public web. I separated backend and front end, ionic uses the API from this URL.
 [Server demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
 
 [Server repo link](https://github.com/JaydeYue/RandomIonicServer)
@@ -33,7 +35,7 @@ Only tab 1 is in use, the other two tabs are placeholder.
 
 3. **Test**
 
-There are no unit tests for front end, please feel free to test on your web either locally.
+There are unit tests for backend but not for front end, I think testing on front end is best done by playing around with the app locally.
 
 4. **Troubleshoot**
 
