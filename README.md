@@ -1,9 +1,11 @@
 # Random Ionic Server
 Random stuff
 
-[Ionic Demo on Heroku]()
+[Ionic demo on Heroku](https://jayde-randomionic.herokuapp.com/)
 
-[Front end ionic repo link](https://github.com/JaydeYue/RandomIonic)
+[Server demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
+
+[Server repo link](https://github.com/JaydeYue/RandomIonicServer)
 
 ## Currently have
 [Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicServer/routes/randomFunctionalities.js)
