@@ -1,8 +1,7 @@
 # Random Ionic Server
 Random stuff
 
-[Ionic demo on Heroku](https://jayde-randomionic.herokuapp.com/)
-
+This server demo works. I separated backend and front end, ionic uses the API from this URL.
 [Server demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
 
 [Server repo link](https://github.com/JaydeYue/RandomIonicServer)
@@ -21,25 +20,21 @@ $ npm install
 $ npm install -g cordova ionic
 ```
 
-2. **Test**
-
-```bash
-$ npm test
-```
-
-The tests are in the test folder.
-
-![You should see something like this](./images/Capture.PNG)
-
 3. **Running locally**
 
 ```bash
-$ npm start
+$ ionic serve
 ```
 
-I set it to be on 8080, feel free to change though. Right now it only supports one single route: localhost:8080/get_median_prime/value_of_n, and it will return the median prime number up to and including n as result.
+Only tab 1 is in use, the other two tabs are placeholder.
+![You should see something like this when running locally](./images/Capture.PNG)
 ![You should see something like this when running locally](./images/Capture1.PNG)
+![You should see something like this when running locally](./images/Capture2.PNG)
+
+3. **Test**
+
+There are no unit tests for front end, please feel free to test on your web either locally.
 
 4. **Troubleshoot**
 
-Please google whatever error you get:) If a problem persists, feel free to contact me through my website.
+Please google whatever build error you get:) If a build error persists or you find a bug, please contact me through my website. Thank you!

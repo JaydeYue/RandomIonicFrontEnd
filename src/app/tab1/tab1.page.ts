@@ -16,7 +16,7 @@ export class Tab1Page {
         console.log(this.n_value);
         this.http.get(domainURL + apiURL + this.n_value).
         subscribe(data => {
-            document.getElementById("MedianPrimesOutput").innerHTML = data.result;
+            document.getElementById("MedianPrimesOutput").innerHTML = data['result'];
         },(err)=>{
             alert(err);
         });
