@@ -1,10 +1,8 @@
 # Random Ionic Server
-Random stuff
 
-This works locally, I will try to upload it to the public web later.
+[Full demo using ionic on Firebase](https://jayde-random-ionic.firebaseapp.com). For this, you need to press 'enter' or press somewhere else on the screen after typing a number for the result to show. When you first load this, there might be a delay before the result shows, but several seconds later the speed should return to normal.
 
-This server demo works and is uploaded to the public web. I separated backend and front end, ionic uses the API from this URL.
-[Server demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
+[Backend server using express demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
 
 [Server repo link](https://github.com/JaydeYue/RandomIonicServer)
 
