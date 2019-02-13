@@ -8,16 +8,17 @@ Random stuff
 [Server repo link](https://github.com/JaydeYue/RandomIonicServer)
 
 ## Currently have
-[Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicServer/routes/randomFunctionalities.js)
+[Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicFrontEnd/src/app/tab1)
 
 # Setup
 
-Using Express and Node.js for the backend. Make sure you have recent node installed.
+Using Ionic and Node.js for the backend. Make sure you have them installed
 
 1. **Install Required libraries**
 
 ```bash
 $ npm install
+$ npm install -g cordova ionic
 ```
 
 2. **Test**
