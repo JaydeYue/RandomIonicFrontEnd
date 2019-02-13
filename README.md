@@ -9,7 +9,7 @@ This server demo works and is uploaded to the public web. I separated backend an
 [Server repo link](https://github.com/JaydeYue/RandomIonicServer)
 
 ## Currently have
-Getting median of prime numbers before a positive N
+[Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicFrontEnd/tree/master/src/app/tab1)
 
 # Setup
 
