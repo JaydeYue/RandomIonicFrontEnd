@@ -13,7 +13,7 @@ Getting median of prime numbers before a positive N
 
 # Setup
 
-Using Ionic and Node.js for the backend. Make sure you have them installed
+Using Ionic for the frontend. Make sure you have them installed
 
 1. **Install Required libraries**
 
