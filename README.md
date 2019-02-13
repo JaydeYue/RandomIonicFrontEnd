@@ -4,7 +4,7 @@
 
 [Backend server using express demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
 
-[Server repo link](https://github.com/JaydeYue/RandomIonicServer)
+[Front End repo link](https://github.com/JaydeYue/RandomIonicServer)
 
 ## Currently have
 [Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicFrontEnd/tree/master/src/app/tab1)
